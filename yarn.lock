@@ -4879,6 +4879,11 @@ react-is@^16.8.1, react-is@^16.8.3, react-is@^16.8.4:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.8.6.tgz#5bbc1e2d29141c9fbdfed456343fe2bc430a6a16"
   integrity sha512-aUk3bHfZ2bRSVFFbbeVS4i+lNPZr3/WM5jT2J5omUVV1zzcs1nAaf3l51ctA5FFvCRbhrH0bdAsRRQddFJZPtA==
 
+react-native-ux-cam@^5.1.6:
+  version "5.1.6"
+  resolved "https://registry.yarnpkg.com/react-native-ux-cam/-/react-native-ux-cam-5.1.6.tgz#4cf02e26faaa1045f9a36fc84749dffbe2164b40"
+  integrity sha512-92F/66VxdEAiMrWUH1XEKJdUQ3qXq+5RJgN3iVL4DjgootnSFG2kgxwUymB2/976KK5D4GTMgQ99R2fyHQercg==
+
 react-native@0.59.0:
   version "0.59.0"
   resolved "https://registry.yarnpkg.com/react-native/-/react-native-0.59.0.tgz#7d0ad297da3fd2e18f387f0ef5581270aaabac42"

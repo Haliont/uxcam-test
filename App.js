@@ -8,6 +8,9 @@
 
 import React, {Component} from 'react';
 import {Platform, StyleSheet, Text, View} from 'react-native';
+import RNUxcam from 'react-native-ux-cam';
+
+RNUxcam.startWithKey('3x9t3zzvm0ts6n5');
 
 const instructions = Platform.select({
   ios: 'Press Cmd+R to reload,\n' + 'Cmd+D or shake for dev menu',
